@@ -44,3 +44,7 @@ Link : https://myaccount.google.com/security
 ## As mentioned in the instructions store the user images in DATASETS directory
 
 ![train1](https://user-images.githubusercontent.com/39863022/59698962-58e34e80-920e-11e9-8b57-67e3edc8e36a.png)
+
+## Then click start to begin training.
+
+
