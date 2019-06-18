@@ -78,3 +78,4 @@ Note : Once training is completed all the images are deleted to maintain privacy
 ### The system was able to successfully detect the user who was not available in the frame.
 ## Mail received by the student.
 ![mail](https://user-images.githubusercontent.com/39863022/59722084-79c49780-9240-11e9-9932-aad090a06572.png)
+### Thanks to @ageitgey and @davisking for their awesome work.
