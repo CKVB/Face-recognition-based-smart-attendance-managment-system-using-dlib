@@ -1,7 +1,7 @@
 # Face recognition based smat attendance managment system using dlib.
 Here we aim at automating the traditional way of taking attendances at school's and college's.
 
-# Lets get started.
+# Let's get started.
 
 ## Firstly clone this repository or download the installer (Windows only) [Download Installer](https://mega.nz/#!d6QXCYya!R772Af8n--GPA4dV70SDoJeMEzlKdhObtr_iZIgG6xE "Download Installer")
 
@@ -32,3 +32,11 @@ Link : https://myaccount.google.com/security
 ![register success](https://user-images.githubusercontent.com/39863022/59696054-e58b0e00-9208-11e9-8d87-f635586cf4d3.png)
 
 ## After registring with your mail execute either RUN.py or RUN.exe [Attendance Marker.lnk] and the following output will be obtained.
+
+## Select option 1 (Perform training) if running for the first time.
+
+![run1](https://user-images.githubusercontent.com/39863022/59696801-52eb6e80-920a-11e9-86b3-aa284a2256c1.png)
+
+## Follow the specified instruction's and then click Start.
+
+![run2](https://user-images.githubusercontent.com/39863022/59696809-57b02280-920a-11e9-8c42-c7692be94869.png)
