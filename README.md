@@ -41,11 +41,13 @@ Link : https://myaccount.google.com/security
 
 ![run2](https://user-images.githubusercontent.com/39863022/59696809-57b02280-920a-11e9-8c42-c7692be94869.png)
 
-## As mentioned in the instructions store the user images in DATASETS directory
+## As mentioned in the instructions store the user images in DATASETS directory.
 
 ![train1](https://user-images.githubusercontent.com/39863022/59698962-58e34e80-920e-11e9-8b57-67e3edc8e36a.png)
 
 ## Then click start to begin training.
 
+<img src="https://user-images.githubusercontent.com/39863022/59703396-6a7d2400-9217-11e9-843a-e26abff7e823.gif" width=778 height=265>
 
+## Note : Once training is completed all the images are deleted to maintain privacy.
 
