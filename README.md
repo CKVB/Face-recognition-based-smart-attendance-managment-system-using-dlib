@@ -24,3 +24,8 @@ Link : https://myaccount.google.com/security
 # Once after completing the above step's.
 
 ## Execute the REGISTER.py or register.exe and the following output will be obtained.
+
+![register](https://user-images.githubusercontent.com/39863022/59695717-4d8d2480-9208-11e9-82c1-492c1027ca32.png)
+
+## Upon successful registaration.
+
