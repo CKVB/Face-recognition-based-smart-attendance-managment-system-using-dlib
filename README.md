@@ -40,3 +40,7 @@ Link : https://myaccount.google.com/security
 ## Follow the specified instruction's and then click Start.
 
 ![run2](https://user-images.githubusercontent.com/39863022/59696809-57b02280-920a-11e9-8c42-c7692be94869.png)
+
+## As mentioned in the instructions store the user images in DATASETS directory
+
+
