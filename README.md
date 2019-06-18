@@ -54,11 +54,9 @@ Note : Once training is completed all the images are deleted to maintain privacy
 
 <img src="https://user-images.githubusercontent.com/39863022/59704049-df9d2900-9218-11e9-9257-3aeff23a7908.gif" width=599 height=302>
 
-## After completing the above step's execute RUN.py or RUN.exe [Attendance Marker.lnk] again and select option 2 (Detect Faces).
-
 ## Launch the IP Webcam mobile app and select start server.
+  Make sure your system and device are connected through a same network.
+  You can do this by turning on the mobile(PHONE) hotspot and connect your device.
+  In case if you are concerned about your privacy turn off your mobile data, leaving the hotspot on.
 
-
-Make sure your system and device are connected through a same network.
-You can do this by turning on the mobile(PHONE) hotspot and connect your device.
-In case if you are concerned about your privacy turn off your mobile data, leaving the hotspot on.
+## After completing the above step's execute RUN.py or RUN.exe [Attendance Marker.lnk] again and select option 2 (Detect Faces).
