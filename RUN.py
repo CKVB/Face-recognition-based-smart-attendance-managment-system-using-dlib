@@ -150,6 +150,8 @@ def train():
 		Label(mlapp,text="Enter the mail ID for : ",background="#177cff",font=font9,foreground="#fffcff",width=224).place(relx=0.13, rely=0.11, height=31, width=224)
 		registered_users=open("registered_mails.dll","r").read().split("\n")
 		registered_user_names=[_.split(",")[0] for _ in registered_users]
+		#Removing the duplicate names
+		mails_to_ask=set(mails_to_ask)
 		for _ in mails_to_ask:
 			if _ not in registered_user_names:
 				Label(mlapp,text=_,background="#177cff",font=font9,foreground="#fffcff",width=284).place(relx=0.5, rely=0.11, height=31, width=284)
