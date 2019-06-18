@@ -69,3 +69,7 @@ Note : Once training is completed all the images are deleted to maintain privacy
 ## Moment of truth.
 
 ![hold](https://user-images.githubusercontent.com/39863022/59720670-18e79000-923d-11e9-8ca2-43e5c104affb.png)
+
+## Press q to close the video stream.
+### Here we purposefully sent one of our friend to move away from the camera view.
+### In order to test the proper functionality of the application.
