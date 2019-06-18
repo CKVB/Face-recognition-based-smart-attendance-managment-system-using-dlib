@@ -63,3 +63,5 @@ Note : Once training is completed all the images are deleted to maintain privacy
 
 ## The following output will be obtained.
 
+![ip](https://user-images.githubusercontent.com/39863022/59719942-39164f80-923b-11e9-9983-61640ffdd5ea.png)
+The threshold value is used as a reference to declare weather a user is absent or not.
