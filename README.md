@@ -60,3 +60,6 @@ Note : Once training is completed all the images are deleted to maintain privacy
   In case if you are concerned about your privacy turn off your mobile data, leaving the hotspot on.
 
 ## After completing the above step's execute RUN.py or RUN.exe [Attendance Marker.lnk] again and select option 2 (Detect Faces).
+
+## The following output will be obtained.
+
