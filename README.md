@@ -73,3 +73,6 @@ Note : Once training is completed all the images are deleted to maintain privacy
 ## Press q to close the video stream.
 ### Here we purposefully sent one of our friend to move away from the camera view.
 ### In order to test the proper functionality of the application.
+## Success
+![mno](https://user-images.githubusercontent.com/39863022/59721773-af1cb580-923f-11e9-94e7-1eac025bfa0e.png)
+### The system was able to successfully detect the user who was not available in the frame.
