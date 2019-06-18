@@ -56,7 +56,9 @@ Note : Once training is completed all the images are deleted to maintain privacy
 
 ## After completing the above step's execute RUN.py or RUN.exe [Attendance Marker.lnk] again and select option 2 (Detect Faces).
 
-Launch the IP Webcam mobile app and select start server.
+## Launch the IP Webcam mobile app and select start server.
+
+
 Make sure your system and device are connected through a same network.
 You can do this by turning on the mobile(PHONE) hotspot and connect your device.
 In case if you are concerned about your privacy turn off your mobile data, leaving the hotspot on.
