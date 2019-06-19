@@ -1,4 +1,4 @@
-# Face recognition based smat attendance managment system using dlib.
+# Face recognition based smart attendance managment system using dlib.
 Here we aim at automating the traditional way of taking attendances at school's and college's.
 
 # Let's get started.
