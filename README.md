@@ -27,7 +27,7 @@ Link : https://myaccount.google.com/security
 
 ![register](https://user-images.githubusercontent.com/39863022/59695717-4d8d2480-9208-11e9-82c1-492c1027ca32.png)
 
-## Upon successful registaration.
+## Upon successful registeration.
 
 ![register success](https://user-images.githubusercontent.com/39863022/59696054-e58b0e00-9208-11e9-8d87-f635586cf4d3.png)
 
