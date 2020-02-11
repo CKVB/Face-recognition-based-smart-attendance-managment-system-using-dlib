@@ -5,7 +5,7 @@ Here we aim at automating the traditional way of taking attendances at school's 
 
 ## Firstly clone this repository.
 
-## In case if you need the installer/executable just to mail me.
+## In case if you need the installer/executable just go ahead and mail me with the subject installer.
 
 ## Download the [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_IN "IP Webcam") app from play store.
 
