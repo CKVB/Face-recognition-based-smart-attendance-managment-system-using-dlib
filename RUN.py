@@ -35,7 +35,7 @@ def train():
 	login.destroy()
 	def Train_user_images():
 		try:
-			#Checking if file is already exists or not.
+			#Checking if file is previously created or not.
 			#If not create a new file to store user name's.
 			USER_NAMES=open("user_naming_order.dll",'a+')
 		except:
